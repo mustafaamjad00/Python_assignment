@@ -13,10 +13,10 @@ Comparison with golden logs: The tool compares generted logs with the Golden log
 Imagine a software testing environment where multiple system configurations need to be tested for resolution and CUDA availability. Instead of manually checking each system, this tool automates the process, ensuring faster and more consistent testing.
 
 ## Requirements:
-1.'Python 3'
-2.'pyscreenshot' library
-3.'screeninfo' library
-4.'torch' library
+1. 'Python 3'
+2. 'pyscreenshot' library
+3. 'screeninfo' library
+4. 'torch' library
 
 ## How to use:
 1. clone the repository.

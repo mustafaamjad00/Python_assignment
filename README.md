@@ -4,10 +4,10 @@
 The Automated Testing is a python script designed to streamline testing and resolution verification processes. It automates various tasks including resolution check,CUDA availability, error handling and comparison of log file with Golden file.
 
 ## Key features:
-Automated resolution checks: The tool compares the current resolution with the required resolution and logs any mismatches.
-CUDA availability check: The tool verifies if CUDA is available on the system and logs the result.
-Error handling: The script captures and logs errors, along with corresponding screenshots.
-Comparison with golden logs: The tool compares generted logs with the Golden logs,and save the mismatch logs into Golden logs file.
+1. Automated resolution checks: The tool compares the current resolution with the required resolution and logs any mismatches.
+2. CUDA availability check: The tool verifies if CUDA is available on the system and logs the result.
+3. Error handling: The script captures and logs errors, along with corresponding screenshots.
+4. Comparison with golden logs: The tool compares generted logs with the Golden logs,and save the mismatch logs into Golden logs file.
 
 ## Usage Scenario:
 Imagine a software testing environment where multiple system configurations need to be tested for resolution and CUDA availability. Instead of manually checking each system, this tool automates the process, ensuring faster and more consistent testing.

@@ -21,8 +21,8 @@ Imagine a software testing environment where multiple system configurations need
 ## How to use:
 1. clone the repository.
    <pre>
-     ``` 
-      https://github.com/mustafaamjad00/Python_assignment.git
+     ```       https://github.com/mustafaamjad00/Python_assignment.git
+
      ```
    </pre>
 3. Install required libraries using 'pip install -r requirements.txt'.

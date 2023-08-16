@@ -10,7 +10,7 @@ Error handling: The script captures and logs errors, along with corresponding sc
 Comparison with golden logs: The tool compares generted logs with the Golden logs,and save the mismatch logs into Golden logs file.
 
 Usage Scenario:
-Imagine a softare testing environment eher multiple system configurations need to be tested for resolution and CUDA availability. Instead of manually checking each system, this tool automates the process, ensuring faster and more consistent testing.
+Imagine a software testing environment where multiple system configurations need to be tested for resolution and CUDA availability. Instead of manually checking each system, this tool automates the process, ensuring faster and more consistent testing.
 
 Requirements:
 Python 3

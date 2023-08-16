@@ -1,6 +1,6 @@
 # Automated Testing
 
-Description:
+##Description:
 The Automated Testing is a python script designed to streamline testing and resolution verification processes. It automates various tasks including resolution check,CUDA availability, error handling and comparison of log file with Golden file.
 
 Key features:

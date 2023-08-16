@@ -20,10 +20,9 @@ Imagine a software testing environment where multiple system configurations need
 
 ## How to use:
 1. clone the repository.
-
-```
-git clone https://github.com/mustafaamjad00/Python_assignment.git
-```       
+   ```
+   git clone https://github.com/mustafaamjad00/Python_assignment.git
+   ```      
    
 3. Install required libraries using
    ```

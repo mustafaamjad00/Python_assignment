@@ -20,9 +20,12 @@ Imagine a software testing environment where multiple system configurations need
 
 ## How to use:
 1. clone the repository.
-2. Install required libraries using 'pip install -r requirements.txt'.
-3. Run the main script using 'python main.py'.
-4. Follow on-screen instruction to initiate the automated testing process.
+   <pre>
+     '''
+   </pre>
+3. Install required libraries using 'pip install -r requirements.txt'.
+4. Run the main script using 'python main.py'.
+5. Follow on-screen instruction to initiate the automated testing process.
 
 ## Contribution:
 Contribution to this project are welcome! Feel free to report issues,suggest improvements, or submit pull request through GitHub.    
